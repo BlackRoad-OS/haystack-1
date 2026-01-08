@@ -117,3 +117,32 @@ Here's a list of projects and companies using Haystack. Are you also using Hayst
 - Media & Entertainment: [Netflix](https://netflix.com), [Comcast](https://arxiv.org/html/2405.00801v2), [Zeit Online](https://www.deepset.ai/case-studies/zeit-online), [Rakuten](https://www.rakuten.com/)
 - Legal & Publishing: [Manz](https://www.deepset.ai/case-studies/manz), [Oxford University Press](https://corp.oup.com/)
 - Startups & Research: [YPulse](https://www.deepset.ai/case-studies/ypulse), [BetterUp](https://www.betterup.com/), [Intel Labs](https://github.com/IntelLabs/fastRAG#readme)
+
+---
+
+## 📜 License & Copyright
+
+**Copyright © 2026 BlackRoad OS, Inc. All Rights Reserved.**
+
+**CEO:** Alexa Amundson
+
+**PROPRIETARY AND CONFIDENTIAL**
+
+This software is the proprietary property of BlackRoad OS, Inc. and is **NOT for commercial resale**.
+
+### ⚠️ Usage Restrictions:
+- ✅ **Permitted:** Testing, evaluation, and educational purposes
+- ❌ **Prohibited:** Commercial use, resale, or redistribution without written permission
+
+### 🏢 Enterprise Scale:
+Designed to support:
+- 30,000 AI Agents
+- 30,000 Human Employees
+- One Operator: Alexa Amundson (CEO)
+
+### 📧 Contact:
+For commercial licensing inquiries:
+- **Email:** blackroad.systems@gmail.com
+- **Organization:** BlackRoad OS, Inc.
+
+See [LICENSE](LICENSE) for complete terms.
